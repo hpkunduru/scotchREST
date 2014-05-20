@@ -1,0 +1,24 @@
+{
+  "name": "scotchREST",
+  "version": "0.0.0",
+  "description": "A Node Express REST API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose": "~3.6.13",
+    "body-parser": "~1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hpkunduru/scotchREST.git"
+  },
+  "author": "HP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpkunduru/scotchREST/issues"
+  },
+  "homepage": "https://github.com/hpkunduru/scotchREST"
+}
